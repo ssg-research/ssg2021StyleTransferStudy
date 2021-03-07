@@ -29,7 +29,7 @@ Below you can find 2 examples of images painted by Monet.
 
 ### Anime Style
 
-Anime is a Japanese hand-drawn animation style known for its characteristic way of picturing people ([read more at the Wikipedia](https://en.wikipedia.org/wiki/Anime).
+Anime is a Japanese hand-drawn animation style known for its characteristic way of picturing people ([read more at the Wikipedia](https://en.wikipedia.org/wiki/Anime)).
 In this part of the study, you are going to evaluate style transformations that make people in the photos look as if they were anime characters.
 
 Below you can find some examples of characters drawn in the animes style.
