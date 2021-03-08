@@ -1,12 +1,12 @@
 ## Style Transfer User Study
 
-This is a user study organised by Secure Systems Group at [Aalto University](https://ssg.aalto.fi)/[University of Waterloo](https://crysp.uwaterloo.ca/research/SSG/).
+This is a user study organised by [Secure Systems Group](https://ssg.aalto.fi).
 
 The link to the study is at the end of this page.
 
-If you have any questions contact as at sebastian.szyller@aalto.fi or contact@sebszyller.com.
+If you have any questions contact us at sebastian.szyller@aalto.fi or contact@sebszyller.com.
 
-## Generative Style Transfer
+## Style Transfer
 
 Recently developed new _**Style Transfer**_ techniques make it possible to take any input image and produce an output image in a specified style. With such style transfer techniques, we can, for example, make photos look like painting by classical artists, automatically colour black-and-white images, or transform selfies into cartoon-like characters.
 
