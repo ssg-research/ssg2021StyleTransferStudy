@@ -14,7 +14,7 @@ In this study, you are going to evaluate style transformations using such techni
 - making photos look like Monet paintings, and
 - making selfies look like anime characters
 
-This study is NOT intended to test your ability to evaluate images. Its purpose is to tell us which transformations look good in your opinion.
+This study is NOT intended to test your ability to evaluate images. Its purpose is to tell us which transformations are successful in your opinion.
 
 ### Monet Style
 
@@ -42,4 +42,4 @@ Below you can find some examples of characters drawn in the animes style.
 
 We are conducting the study using Google Forms.
 
-Link TBA.
+https://docs.google.com/forms/d/e/1FAIpQLSeBSTQUBUPTBu7f7p0oqflxI2n8yD2TD8QGFupiXPlAdQbhIg/viewform?usp=sf_link
