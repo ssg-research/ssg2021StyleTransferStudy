@@ -42,4 +42,4 @@ Below you can find some examples of characters drawn in the animes style.
 
 We are conducting the study using Google Forms.
 
-https://docs.google.com/forms/d/e/1FAIpQLSeBSTQUBUPTBu7f7p0oqflxI2n8yD2TD8QGFupiXPlAdQbhIg/viewform?usp=sf_link
+[Click here to go to the study.](https://docs.google.com/forms/d/e/1FAIpQLSeBSTQUBUPTBu7f7p0oqflxI2n8yD2TD8QGFupiXPlAdQbhIg/viewform?usp=sf_link)
